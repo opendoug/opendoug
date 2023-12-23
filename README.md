@@ -1,8 +1,12 @@
 # Hi there 👋 I'm Doug!
 
-I'm a web developer, analytics-engineering-tinkerer, general technologist, and strategist. I'm curious and good at the Internet, which can be a dangerous combination. Sometimes people share their problems with me, and I help them find a solution.
+I've spent the last 20 years working at the intersections where technology meets sales, warehousing, logistics, education, construction, and real estate.
 
 - 🔭 I’m currently working as the Director of Strategy & Technology at [Elite Development Group](https://elite.team).
+- 👨‍💻 Founder and and now consultant at WaltersWorks, a web development company we grew from friends and family to clients all over North America.
+- 💻 Founder of Connected York County, a 501(c)(3) working to bridge the digital divide in York County, Pennsylvania.
+- 🎓 Proud graduate of the University of the People, the world's first tuition-free and accredited online university!
+- 👨‍👦 Chrissy's husband, and dad to two beautiful kiddos and a growing group of amazing foster children.
 - 🌱 I’m currently migrating some data pipelines from [AppFolio's](https://www.appfolio.com/stack/partners/api) v1 API to the new v2.
 - 👯 I’m not looking to collaborate on anything at the moment, but you're still welcome to reach out.
 - 🤔 I’m not looking for help with anything at the moment.
