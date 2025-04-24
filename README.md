@@ -2,7 +2,7 @@
 
 I've spent the last 20 years working at the intersections where technology meets sales, warehousing, logistics, education, construction, and real estate.
 
-- 🔭 I’m currently working as the Director of Strategy & Technology at [Elite Development Group](https://elite.team).
+- 🔭 I’m currently working as the Director of [Elite Investment Innovations](https://elite.team).
 - 👨‍💻 Founder and and now consultant at WaltersWorks, a web development company we grew from friends and family to clients all over North America.
 - 💻 Founder of Connected York County, a 501(c)(3) working to bridge the digital divide in York County, Pennsylvania.
 - 🎓 Proud graduate of the University of the People, the world's first tuition-free and accredited online university!
